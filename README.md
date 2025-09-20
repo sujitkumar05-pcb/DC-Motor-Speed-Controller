@@ -17,4 +17,4 @@ Compatible with microcontrollers for easy control.
 
 Suitable for robotics, automation, and DIY motor projects.
 
-# A to Z
+# a to z
